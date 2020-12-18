@@ -57,20 +57,15 @@ module.exports = {
       {
         text: 'Блог',
         link: '/blog/'
-      },
-      {
-        text: 'Github',
-        link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/interviews/': [
         {
-          title: 'Guide',
+          title: 'Собеседования',
           collapsable: false,
           children: [
-            '',
-            'using-vue',
+
           ]
         }
       ],
@@ -83,5 +78,12 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+      [
+          'metrika',
+          {
+              counter: '70635346',
+              config: {},
+          },
+      ],
   ]
 }
