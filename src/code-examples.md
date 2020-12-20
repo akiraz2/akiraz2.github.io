@@ -10,6 +10,11 @@
 * [https://gitlab.com/webstu](https://gitlab.com/webstu)
 :::
 
+## PHP
+
+Тестовое задание от компании Helastel - [github/helastel-test](https://github.com/akiraz2/helastel-test)
+
+
 ## Laravel
 
 Тестовое задание от одной компании - [github/laravel-test-package](https://github.com/akiraz2/laravel-test-package)

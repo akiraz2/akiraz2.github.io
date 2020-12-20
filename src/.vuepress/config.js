@@ -62,13 +62,6 @@ module.exports = {
             }
         ],
         sidebar: {
-            '/interviews/': [
-                {
-                    title: 'Собеседования',
-                    collapsable: false,
-                    children: []
-                }
-            ]
         }
     },
 

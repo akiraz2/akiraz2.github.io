@@ -1,6 +1,6 @@
 # Full-stack Developer
 
-![An image](/img/ava.jpeg)
+![My avatar](/img/ava.jpeg)
 
 Привет!
 
