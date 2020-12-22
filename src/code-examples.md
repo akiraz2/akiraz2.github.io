@@ -27,5 +27,6 @@
 
 ## Vue.js + Nuxt.js
 
+Тестовое задание Цифровая Платформа i4.0 - [https://gitlab.com/webstu/test](https://gitlab.com/webstu/test) [DEMO](https://webstu.gitlab.io/test/#/)
 
 ## ... Coming soon
