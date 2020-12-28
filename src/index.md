@@ -37,10 +37,10 @@ PHP 5.6 - 7.4:
 
 Javascript:
 - Jquery
-- libs: анимации, lodash, moment
-- ES6, Webpack, модные ES2020
+- libs: анимации, lodash, moment и многие другие
+- ES6, Webpack, модные ES2021
 - Vue.js + Nuxt.js
-- UI (element ui, buefy, MD, )
+- UI (element ui, buefy, MD, др)
 - node js (Adonis.js)
 - Websocket
 
