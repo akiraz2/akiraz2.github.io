@@ -12,12 +12,14 @@
 
 ## PHP
 
-Тестовое задание от компании Helastel - [github/helastel-test](https://github.com/akiraz2/helastel-test)
+Тестовое задание от компании Helastel декабрь 2020 - [github/helastel-test](https://github.com/akiraz2/helastel-test)
+
+Тестовое задание на PHP ООР от компании Kenner Soft Service GmbH v27/01/2021 - [github/kenner-test](https://github.com/akiraz2/kenner-test)
 
 
 ## Laravel
 
-Тестовое задание от одной компании - [github/laravel-test-package](https://github.com/akiraz2/laravel-test-package)
+Тестовое задание от одной компании (лето, 2020)- [github/laravel-test-package](https://github.com/akiraz2/laravel-test-package)
 
 ## Yii2
 
