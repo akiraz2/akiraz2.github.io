@@ -27,8 +27,11 @@
 - Модуль БЛОГ https://github.com/akiraz2/yii2-blog
 - Модуль Служба поддержки https://github.com/akiraz2/yii2-ticket-support
 
-## Vue.js + Nuxt.js
+## Vue.js (sometimes Nuxt.js)
 
 Тестовое задание Цифровая Платформа i4.0 - [https://gitlab.com/webstu/test](https://gitlab.com/webstu/test) [DEMO](https://webstu.gitlab.io/test/#/)
+
+Тестовое задание Создать SPA таск-менеджер - [https://github.com/akiraz2/averia-test-vuejs](https://github.com/akiraz2/averia-test-vuejs)
+
 
 ## ... Coming soon
