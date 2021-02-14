@@ -75,7 +75,12 @@ module.exports = {
             'metrika',
             {
                 counter: '70635346',
-                config: {}
+                config: {
+                    accurateTrackBounce: true,
+                    clickmap: true,
+                    trackLinks: true,
+                    webvisor: true
+                }
             }
         ]
     ]
