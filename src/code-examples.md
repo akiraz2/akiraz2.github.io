@@ -31,7 +31,7 @@
 
 Тестовое задание Цифровая Платформа i4.0 - [https://gitlab.com/webstu/test](https://gitlab.com/webstu/test) [DEMO](https://webstu.gitlab.io/test/#/)
 
-Тестовое задание Создать SPA таск-менеджер - [https://github.com/akiraz2/averia-test-vuejs](https://github.com/akiraz2/averia-test-vuejs)
+Тестовое задание Создать SPA таск-менеджер - [https://github.com/akiraz2/averia-test-vuejs](https://github.com/akiraz2/averia-test-vuejs) [DEMO](https://akiraz2.github.io/averia-test-vuejs/#/)
 
 
 ## ... Coming soon
