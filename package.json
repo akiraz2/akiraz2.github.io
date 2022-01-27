@@ -1,7 +1,7 @@
 {
-  "name": "evs",
-  "version": "0.0.1",
-  "description": "",
+  "name": "akiraz2",
+  "version": "1.0.1",
+  "description": "Website for developer",
   "main": "index.js",
   "authors": {
     "name": "Evgeniy",
@@ -14,9 +14,9 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.9.7"
   },
   "dependencies": {
-    "vuepress-plugin-metrika": "^1.0.2"
+    "vuepress-plugin-metrika": "^1.0.3"
   }
 }
