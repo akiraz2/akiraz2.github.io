@@ -34,11 +34,11 @@ module.exports = {
         editLinks: false,
         docsDir: '',
         editLinkText: '',
-        lastUpdated: false,
+        lastUpdated: 'Обновлено',
         nav: [
             {
                 text: 'Стек',
-                link: '/index#стек-используемых-технологии'
+                link: '/stack'
             },
             {
                 text: 'Примеры кода',
@@ -46,16 +46,16 @@ module.exports = {
             },
             {
                 text: 'Контакты',
-                link: '/index#контакты'
+                link: '/contacts'
             },
             {
                 text: 'Проекты',
                 link: '/projects/'
             },
-            {
-                text: 'Собеседования',
-                link: '/interviews/'
-            },
+            // {
+            //     text: 'Собеседования',
+            //     link: '/interviews/'
+            // },
             {
                 text: 'Блог',
                 link: '/blog/'
