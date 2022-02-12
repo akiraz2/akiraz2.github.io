@@ -52,10 +52,10 @@ module.exports = {
                 text: 'Проекты',
                 link: '/projects/'
             },
-            // {
-            //     text: 'Собеседования',
-            //     link: '/interviews/'
-            // },
+            {
+                text: 'Мысли',
+                link: '/about'
+            },
             {
                 text: 'Блог',
                 link: '/blog/'
