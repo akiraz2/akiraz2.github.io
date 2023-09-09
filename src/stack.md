@@ -4,9 +4,9 @@ description: Стек используемых технологий веб-ра�
 
 # Стек используемых технологий
 
-**PHP 5.7 - 8.0:**
+**PHP 5.7 - 8.1:**
 - Yii 2 - Хорошие знания и опыт с 2015
-- Laravel 5.7-8 (с 2019)
+- Laravel 5.7-10 (с 2019)
 - очереди (Redis)
 - работа с графическими и звуковыми файлами, Word, PDF, Excel, CSV, XML
 - интеграция с API сторонних сервисов
@@ -14,10 +14,10 @@ description: Стек используемых технологий веб-ра�
 - телеграм-боты 🤖
 - [PHP League](https://github.com/orgs/thephpleague/repositories) (Omnipay, Flysystem, Glide)
 - [Spatie](https://github.com/orgs/spatie/repositories) (Media, Translations, etc)
-- OAuth 2.0, Carbon,
+- OAuth 2.0, Carbon
 
 **БД:**
-- Mysql 5.7 (+postgresql)
+- Mysql 8.0 (+postgresql)
 - проектирование (на данный момент опыт до 100 таблиц), индексы, транзакции
 - Redis
 
@@ -49,7 +49,7 @@ description: Стек используемых технологий веб-ра�
 - Docker (docker-compose)
 - Git (Github, Bitbucket, Gitlab)
 - tasks - Redmine, Jira, YouTrack
-- PHPStorm 2021, macOS Monterey 🖥
+- PHPStorm 2022, macOS Ventura 🖥
 - AWS S3, minio
 - Sentry
 
