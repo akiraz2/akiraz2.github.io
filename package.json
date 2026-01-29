@@ -1,22 +1,21 @@
 {
-  "name": "evs",
-  "version": "1.0.1",
-  "description": "Private Website of developer",
-  "main": "index.js",
-  "authors": {
-    "name": "Evgeniy",
-    "email": "akiraz@bk.ru"
-  },
-  "repository": "/evs",
-  "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
-  },
+  "name": "resume",
+  "description": "Резюме веб-разработчика",
+  "version": "0.0.1",
   "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.9.7"
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:dev": "vuepress dev docs",
+    "docs:update-package": "npx vp-update"
   },
-  "dependencies": {
-    "vuepress-plugin-metrika": "^1.0.3"
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.20",
+    "@vuepress/theme-default": "2.0.0-rc.88",
+    "sass-embedded": "^1.86.0",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.20",
+    "@vuepress/plugin-blog": "2.0.0-rc.86"
   }
 }
