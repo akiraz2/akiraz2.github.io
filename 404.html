@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ru-RU">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.20" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const useChoice = localStorage.getItem('vuepress-color-scheme')
+      const systemStatus =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (useChoice === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (useChoice === 'dark' || systemStatus) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>Fullstack Wеб-разработчик</title><meta name="description" content="Резюме годного веб-разработчика">
+    <link rel="preload" href="/assets/style-B3-VMakp.css" as="style"><link rel="stylesheet" href="/assets/style-B3-VMakp.css">
+    <link rel="modulepreload" href="/assets/app-BjNhWTtd.js"><link rel="modulepreload" href="/assets/404.html-ieL5oaku.js">
+    <link rel="prefetch" href="/assets/index.html-wRcw0cGm.js" as="script"><link rel="prefetch" href="/assets/about.html-fwQ417Nj.js" as="script"><link rel="prefetch" href="/assets/contacts.html-CYkKufrV.js" as="script"><link rel="prefetch" href="/assets/stack.html-D2bcIED6.js" as="script"><link rel="prefetch" href="/assets/index.html-Bk0br2FU.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-ec9917b8><main class="page" data-v-ec9917b8><div vp-content data-v-ec9917b8><h1 data-v-ec9917b8>404</h1><blockquote data-v-ec9917b8>How did we get here?</blockquote><a class="route-link" href="/" data-v-ec9917b8>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-BjNhWTtd.js" defer></script>
+  </body>
+</html>
